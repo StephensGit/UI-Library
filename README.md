@@ -7,6 +7,6 @@ Technologies used are:
 
 HTML, CSS, Javascript
 
-Webpack
+Webpack,
 Babel
 
